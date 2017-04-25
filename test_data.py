@@ -4,22 +4,26 @@ class Usage(testdata.DictFactory):
     id = testdata.CountingFactory(10)
     deviceId = testdata.CountingFactory(10)
     studentId = testdata.CountingFactory(10)
-    #time = testdata.RelativeToDatetimeField("start_time", datetime.timedelta(minutes=20))
+    time = testdata.RandomDateFactory(datetime.datetime(2013, 10, 1, 1, 1, 0, 0), datetime.datetime.now())
     packageName = testdata.RandomSelection(['Literacy', 'Game', 'Speech'])
-    literacySkill = testdata.RandomLengthStringFactory()
-    numeracySkill = testdata.RandomLengthStringFactory()
-    letter = testdata.RandomLengthStringFactory()
-    number = testdata.RandomLengthStringFactory()
-    word = testdata.RandomLengthStringFactory()
+    literacySkill = testdata.RandomLengthStringFactory(1,5)
+    numeracySkill = testdata.RandomLengthStringFactory(1,5)
+    letter = testdata.RandomLengthStringFactory(1,3)
+    number = testdata.RandomLengthStringFactory(1,3)
+    word = testdata.RandomLengthStringFactory(1,10)
+    score = testdata.RandomInteger(20, 100) 
 
 
 
 #xpected format: id:1|deviceId:4113947bec18b7ad|time:1481916197273|packageName:org.literacyapp|literacySkill:LETTER_IDENTIFICATION|numeracySkill:null|letter:a|number:null|word:null
 
 
-
-for usage in Usage().generate(10): # let say we only want 10 users
-    print usage
+out = open("usage.txt", 'w')
+for usage in Usage().generate(10000): 
+    #print usage
+    out.write(str(usage))
+    out.write("\n")
     #{'numeracySkill': 'PwBiXKjwddG', 'studentId': 17, 'word': 'XctugWiHPobIvHNGEbYlgyOUuuqCSKgoTFAhJSQzUUleDEkygyZOWBnGYiLBXbywpwxAsisToqDDWGPHQqbOOlmGVVa', 'packageName': 'Literacy', 'number': 'IrtJUAxnFVOQyvvqlpIsmkaWnRvADBzWBiCYUPvfSwvdHS', 'literacySkill': 'hSQSRXUevpdYMGAs', 'deviceId': 17, 'letter': 'JYuWfonIdptbdpFhBNhLIkLoyhuUgRUvdiUWBcfReeezORAtXhJvNuLZASFeRCAvxvPgOeTZ', 'id': 17}
     #{'numeracySkill': 'ozTpqAwdLstMzeijgJBGYMLantLSMESfYEBMQQxkjILBgNXohBjMbwqrhGsnjoSlcsCGOnTsdgMICQfB', 'studentId': 18, 'word': 'CnhxwMonHnMlEtxcpGowQymEeZtxvlUBDaKHEKRC', 'packageName': 'Literacy', 'number': 'xkerlJLhlyOgsTxHqMPffjPLOqbjgZqtggGzxPTkOleoZtEaDiYnpKxrouCcgRPjdtf', 'literacySkill': 'VlEeAOKKOIgweFTxBeNiOWmoztGPWSqhsIxTr', 'deviceId': 18, 'letter': 'NwJUuHLOkaJHsIvlSQeggfT', 'id': 18}
     #{'numeracySkill': 'uaUQunGtHwrFTuRlVrhwEUisIWlcrZXUZKIlILoPoCgnVWHwrrRaHhxQJVnECUtSvppzQDtpiqUSds', 'studentId': 19, 'word': 'vOTlRRgSXwgmXAthOYnQTTtPJyGxGbbMOj', 'packageName': 'Game', 'number': 'bDmhALNhnmazlonmBIjvwWzXgQfPQQekWJErEvJjWWHrufxuINyHuNiLPvFWynVwdNTaTGIgvvGCAqFRZ', 'literacySkill': 'BpfiZyRAzovNbEhtznPSaqsaZhRkFHlWNpmbzBXKCmBJPnuYiQyEToMaOkVJOVZKNCCAyGpZSpGhfseBMfGaFvltHaJyfcdota', 'deviceId': 19, 'letter': 'nvwanqC', 'id': 19}
+out.close()
