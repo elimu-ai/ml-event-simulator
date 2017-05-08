@@ -2,8 +2,8 @@
 It will generate usage and performance data from user.
 
 ## Tutorial
---[Building a Data-Driven Education System](http://www2.datainnovation.org/2016-data-driven-education.pdf)
---[Enhancing Teaching and Learning Through Educational Data Mining and Learning Analytics](https://tech.ed.gov/wp-content/uploads/2014/03/edm-la-brief.pdf)
+*[Building a Data-Driven Education System](http://www2.datainnovation.org/2016-data-driven-education.pdf)
+*[Enhancing Teaching and Learning Through Educational Data Mining and Learning Analytics](https://tech.ed.gov/wp-content/uploads/2014/03/edm-la-brief.pdf)
 
 ## Requirement
 
