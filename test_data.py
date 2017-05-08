@@ -8,8 +8,8 @@ class Usage(testdata.DictFactory):
     packageName = testdata.RandomSelection(['Literacy', 'Game', 'Speech'])
     literacySkill = testdata.RandomLengthStringFactory(1,5)
     numeracySkill = testdata.RandomLengthStringFactory(1,5)
-    letter = testdata.RandomLengthStringFactory(1,3)
-    number = testdata.RandomLengthStringFactory(1,3)
+    letter = testdata.RandomLengthStringFactory(1,1)
+    number = testdata.RandomInteger(1,9999)
     word = testdata.RandomLengthStringFactory(1,10)
     score = testdata.RandomInteger(20, 100) 
 
@@ -18,7 +18,7 @@ class Usage(testdata.DictFactory):
 #xpected format: id:1|deviceId:4113947bec18b7ad|time:1481916197273|packageName:org.literacyapp|literacySkill:LETTER_IDENTIFICATION|numeracySkill:null|letter:a|number:null|word:null
 
 
-out = open("usage.txt", 'w')
+out = open("/home/bikash/repos/bigdata/DataGeneratorSimulator/usage.txt", 'w')
 for usage in Usage().generate(10000): 
     #print usage
     out.write(str(usage))
