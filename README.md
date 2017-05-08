@@ -8,11 +8,11 @@ It will generate usage and performance data from user.
 
 
 # Focus two major areas:
-##Content Analytics
+## Content Analytics
 
 Are teachers using the best possible content? This level of data analysis takes a deeper dive to better inform the design of new course content and understand its impact (or lack thereof) on students.
 
-##Learning Analytics
+## Learning Analytics
 
 Game-based learning and adaptive learning systems are growing in use. This technology is designed to build statistical models of student knowledge, tracking their progress in order to personalize the learning experience.
 
