@@ -2,7 +2,7 @@
 It will generate usage and performance data from user.
 
 ## Tutorial
-    *[Building a Data-Driven Education System](http://www2.datainnovation.org/2016-data-driven-education.pdf)
+[Building a Data-Driven Education System](http://www2.datainnovation.org/2016-data-driven-education.pdf)
 
 ## Requirement
 
