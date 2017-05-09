@@ -18,7 +18,7 @@ class Usage(testdata.DictFactory):
 #xpected format: id:1|deviceId:4113947bec18b7ad|time:1481916197273|packageName:org.literacyapp|literacySkill:LETTER_IDENTIFICATION|numeracySkill:null|letter:a|number:null|word:null
 
 
-out = open("/home/bikash/repos/bigdata/DataGeneratorSimulator/usage.txt", 'w')
+out = open("usage.txt", 'w')
 for usage in Usage().generate(10000): 
     #print usage
     out.write(str(usage))
