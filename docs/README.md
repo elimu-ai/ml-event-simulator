@@ -10,3 +10,6 @@ Tutorial on machine learning.
 
 ## ONLINE
 [How to Create a Complete Customer Profile](http://info.localytics.com/blog/learn-how-to-create-a-complete-customer-profile-using-data-in-7-steps)
+
+## DATA COLLECTION
+[USER DATA COLLECTION](https://www.appboy.com/academy/Data_and_Analytics/)
