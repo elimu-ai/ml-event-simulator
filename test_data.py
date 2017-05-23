@@ -8,8 +8,8 @@ class Usage(testdata.DictFactory):
     packageName = testdata.RandomSelection(['Literacy', 'Game', 'Speech'])
     literacySkill = testdata.RandomLengthStringFactory(1,5)
     numeracySkill = testdata.RandomLengthStringFactory(1,5)
-    letter = testdata.RandomLengthStringFactory(1,3)
-    number = testdata.RandomLengthStringFactory(1,3)
+    letter = testdata.RandomLengthStringFactory(1,1)
+    number = testdata.RandomInteger(1,9999)
     word = testdata.RandomLengthStringFactory(1,10)
     score = testdata.RandomInteger(20, 100) 
 
