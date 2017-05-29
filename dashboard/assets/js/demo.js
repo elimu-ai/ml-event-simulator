@@ -55,6 +55,15 @@ demo = {
     
         Chartist.Line('#chartHours', dataSales, optionsSales, responsiveSales);
         
+        var dataUser = {
+          labels: ['9:00AM', '12:00AM', '3:00PM', '6:00PM', '9:00PM', '12:00PM', '3:00AM', '6:00AM'],
+          series: [
+             [287, 385, 490, 492, 554, 586, 698, 695, 752, 788, 846, 944],
+            [67, 152, 143, 240, 287, 335, 435, 437, 539, 542, 544, 647],
+            [23, 113, 67, 108, 190, 239, 307, 308, 439, 410, 410, 509]
+          ]
+        };
+        Chartist.Line('#chartHours1', dataUser, optionsSales, responsiveSales);
     
         var data = {
           labels: ['Jan', 'Feb', 'Mar', 'Apr', 'Mai', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
@@ -84,6 +93,20 @@ demo = {
         ];
         
         Chartist.Bar('#chartActivity', data, options, responsiveOptions);
+        
+
+        var data1 = {
+          labels: ['Jan', 'Feb', 'Mar', 'Apr', 'Mai', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+          series: [
+            [90, 70, 50, 60, 70, 40, 47, 23, 77, 90, 55, 78],
+            [70, 60, 30, 65, 55, 45, 55, 55, 90, 99, 70, 67],
+            [80, 80, 70, 65, 60, 80, 60, 80, 99, 78, 80, 88]
+          ]
+        };
+        
+
+
+        Chartist.Bar('#chartActivity1', data1, options, responsiveOptions);
     
         var dataPreferences = {
             series: [
