@@ -3,6 +3,7 @@ import os
 from os.path import basename
 import pandas
 import random
+import requests
 
 language_codes = ['ENG', 'HIN', 'TGL']
 print(basename(__file__), f'language_codes: {language_codes}')
@@ -111,5 +112,13 @@ for language_code in language_codes:
         if not os.path.exists(video_learning_events_dir):
             os.makedirs(video_learning_events_dir)
         csv_path = os.path.join(video_learning_events_dir, f'{android_id}_{analytics_version_code}_video-learning-events_{date_iso_8601}.csv')
-        print(basename(__file__), f'csv_path: \n{csv_path}')
+        print(basename(__file__), f'csv_path: {csv_path}')
         video_learning_events_df.to_csv(csv_path, index=False)
+
+        # Upload to webapp's REST API
+        endpoint_url = f'{rest_url}/analytics/video-learning-events/csv'
+        print(basename(__file__), f'endpoint_url: {endpoint_url}')
+    with open(csv_path, 'r') as file:
+        files = {'file': file}
+        request = requests.post(endpoint_url, files=files)
+        print(f'request: {request}')

@@ -1,21 +1,33 @@
 id,timestamp,android_id,package_name,video_id,video_title,learning_event_type
-0,1726905582649,e387e38700000001,ai.elimu.analytics,1,akili and me - letter a,VIDEO_OPENED
-0,1726905608328,e387e38700000001,ai.elimu.analytics,1,akili and me - letter a,VIDEO_COMPLETED
-0,1726905582651,e387e38700000001,ai.elimu.analytics,1,akili and me - letter a,VIDEO_OPENED
-0,1726905640436,e387e38700000001,ai.elimu.analytics,1,akili and me - letter a,VIDEO_COMPLETED
-0,1726905582651,e387e38700000001,ai.elimu.analytics,32,akili and me - letter h,VIDEO_OPENED
-0,1726905589620,e387e38700000001,ai.elimu.analytics,32,akili and me - letter h,VIDEO_COMPLETED
-0,1726905582651,e387e38700000001,ai.elimu.analytics,11,akili and me - art - drawing rectangles,VIDEO_OPENED
-0,1726905589095,e387e38700000001,ai.elimu.analytics,11,akili and me - art - drawing rectangles,VIDEO_CLOSED_BEFORE_COMPLETED
-0,1726905582651,e387e38700000001,ai.elimu.analytics,3,akili and me - letter c,VIDEO_OPENED
-0,1726905632218,e387e38700000001,ai.elimu.analytics,3,akili and me - letter c,VIDEO_CLOSED_BEFORE_COMPLETED
-0,1726905582652,e387e38700000001,ai.elimu.analytics,36,akili and me - letter l,VIDEO_OPENED
-0,1726905635147,e387e38700000001,ai.elimu.analytics,36,akili and me - letter l,VIDEO_COMPLETED
-0,1726905582652,e387e38700000001,ai.elimu.analytics,8,akili and me - family,VIDEO_OPENED
-0,1726905600915,e387e38700000001,ai.elimu.analytics,8,akili and me - family,VIDEO_COMPLETED
-0,1726905582652,e387e38700000001,ai.elimu.analytics,12,akili and me - numbers - one two three song,VIDEO_OPENED
-0,1726905623025,e387e38700000001,ai.elimu.analytics,12,akili and me - numbers - one two three song,VIDEO_CLOSED_BEFORE_COMPLETED
-0,1726905582652,e387e38700000001,ai.elimu.analytics,33,akili and me - letter i,VIDEO_OPENED
-0,1726905589590,e387e38700000001,ai.elimu.analytics,33,akili and me - letter i,VIDEO_COMPLETED
-0,1726905582653,e387e38700000001,ai.elimu.analytics,42,one small step,VIDEO_OPENED
-0,1726905620623,e387e38700000001,ai.elimu.analytics,42,one small step,VIDEO_COMPLETED
+0,1726906431985,e387e38700000001,ai.elimu.analytics,6,akili and me - letter f,VIDEO_OPENED
+0,1726906464950,e387e38700000001,ai.elimu.analytics,6,akili and me - letter f,VIDEO_COMPLETED
+0,1726906431985,e387e38700000001,ai.elimu.analytics,8,akili and me - family,VIDEO_OPENED
+0,1726906469106,e387e38700000001,ai.elimu.analytics,8,akili and me - family,VIDEO_CLOSED_BEFORE_COMPLETED
+0,1726906431985,e387e38700000001,ai.elimu.analytics,3,akili and me - letter c,VIDEO_OPENED
+0,1726906439783,e387e38700000001,ai.elimu.analytics,3,akili and me - letter c,VIDEO_CLOSED_BEFORE_COMPLETED
+0,1726906431985,e387e38700000001,ai.elimu.analytics,35,akili and me - letter k,VIDEO_OPENED
+0,1726906456533,e387e38700000001,ai.elimu.analytics,35,akili and me - letter k,VIDEO_COMPLETED
+0,1726906431987,e387e38700000001,ai.elimu.analytics,12,akili and me - numbers - one two three song,VIDEO_OPENED
+0,1726906443114,e387e38700000001,ai.elimu.analytics,12,akili and me - numbers - one two three song,VIDEO_CLOSED_BEFORE_COMPLETED
+0,1726906431987,e387e38700000001,ai.elimu.analytics,2,akili and me - letter b,VIDEO_OPENED
+0,1726906488549,e387e38700000001,ai.elimu.analytics,2,akili and me - letter b,VIDEO_CLOSED_BEFORE_COMPLETED
+0,1726906431987,e387e38700000001,ai.elimu.analytics,9,akili and me - jump jump jump,VIDEO_OPENED
+0,1726906465213,e387e38700000001,ai.elimu.analytics,9,akili and me - jump jump jump,VIDEO_CLOSED_BEFORE_COMPLETED
+0,1726906431988,e387e38700000001,ai.elimu.analytics,7,akili and me - letter g,VIDEO_OPENED
+0,1726906463672,e387e38700000001,ai.elimu.analytics,7,akili and me - letter g,VIDEO_COMPLETED
+0,1726906431988,e387e38700000001,ai.elimu.analytics,14,akili and me - counting compilation,VIDEO_OPENED
+0,1726906476353,e387e38700000001,ai.elimu.analytics,14,akili and me - counting compilation,VIDEO_CLOSED_BEFORE_COMPLETED
+0,1726906431988,e387e38700000001,ai.elimu.analytics,12,akili and me - numbers - one two three song,VIDEO_OPENED
+0,1726906483305,e387e38700000001,ai.elimu.analytics,12,akili and me - numbers - one two three song,VIDEO_CLOSED_BEFORE_COMPLETED
+0,1726906431989,e387e38700000001,ai.elimu.analytics,10,akili and me - music,VIDEO_OPENED
+0,1726906439719,e387e38700000001,ai.elimu.analytics,10,akili and me - music,VIDEO_CLOSED_BEFORE_COMPLETED
+0,1726906431989,e387e38700000001,ai.elimu.analytics,34,akili and me - letter j,VIDEO_OPENED
+0,1726906453213,e387e38700000001,ai.elimu.analytics,34,akili and me - letter j,VIDEO_CLOSED_BEFORE_COMPLETED
+0,1726906431989,e387e38700000001,ai.elimu.analytics,35,akili and me - letter k,VIDEO_OPENED
+0,1726906466733,e387e38700000001,ai.elimu.analytics,35,akili and me - letter k,VIDEO_COMPLETED
+0,1726906431989,e387e38700000001,ai.elimu.analytics,9,akili and me - jump jump jump,VIDEO_OPENED
+0,1726906463751,e387e38700000001,ai.elimu.analytics,9,akili and me - jump jump jump,VIDEO_CLOSED_BEFORE_COMPLETED
+0,1726906431990,e387e38700000001,ai.elimu.analytics,36,akili and me - letter l,VIDEO_OPENED
+0,1726906488936,e387e38700000001,ai.elimu.analytics,36,akili and me - letter l,VIDEO_COMPLETED
+0,1726906431990,e387e38700000001,ai.elimu.analytics,32,akili and me - letter h,VIDEO_OPENED
+0,1726906436073,e387e38700000001,ai.elimu.analytics,32,akili and me - letter h,VIDEO_COMPLETED
