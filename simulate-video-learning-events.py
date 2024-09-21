@@ -23,7 +23,7 @@ print(basename(__file__), f'analytics_version_code: {analytics_version_code}')
 date_iso_8601 = datetime.today().strftime('%Y-%m-%d')
 print(basename(__file__), f'date_iso_8601: {date_iso_8601}')
 
-def simulate_video_learning_event(android_id, videos_df: pandas.DataFrame):
+def simulate_video_learning_event(android_id, videos_df: pandas.DataFrame, video_learning_events):
     print(basename(__file__), 'simulate_video_learning_event')
     """
     Simulate a VideoLearningEvent, e.g. a video being opened.
@@ -32,25 +32,46 @@ def simulate_video_learning_event(android_id, videos_df: pandas.DataFrame):
     """
 
     id = 0
-    timestamp = int(datetime.now().timestamp())
+    timestamp_ms = int(datetime.now().timestamp() * 1_000)
 
     # Locate a random video in the DataFrame
     number_of_videos = len(videos_df.index)
     random_video_index = random.randrange(0, number_of_videos)
     random_video = videos_df.loc[random_video_index]
 
-    return {
+    # https://github.com/elimu-ai/model/blob/main/src/main/java/ai/elimu/model/v2/enums/analytics/LearningEventType.java
+    learning_event_types = ['VIDEO_OPENED', 'VIDEO_CLOSED_BEFORE_COMPLETED', 'VIDEO_COMPLETED']
+
+    video_learning_events.append({
         'id': id,
-        'timestamp': timestamp,
+        'timestamp': timestamp_ms,
         'android_id': android_id,
         'package_name': package_name,
         'video_id': random_video.id,
         'video_title': random_video.title,
-        'learning_event_type': ''
-    }
+        'learning_event_type': learning_event_types[0]
+    })
+
+    # A `VIDEO_OPENED_EVENT` should always be followed by a `VIDEO_CLOSED_BEFORE_COMPLETED` or 
+    # a `VIDEO_COMPLETED` event.
+    second_learning_event_type = random.choice(learning_event_types[-2:])
+
+    # Increase timestamp to simulate passage of time between the `VIDEO_OPENED` event and the 
+    # second event. Increase by a random number between 1 second and 60 seconds.
+    timestamp_ms += random.randrange(1_000, 1_000 * 60)
+
+    video_learning_events.append({
+        'id': id,
+        'timestamp': timestamp_ms,
+        'android_id': android_id,
+        'package_name': package_name,
+        'video_id': random_video.id,
+        'video_title': random_video.title,
+        'learning_event_type': random.choice(learning_event_types[-2:])
+    })
 
 for language_code in language_codes:
-    print(basename(__file__))
+    print()
     print(basename(__file__), f'language_code: {language_code}')
 
     videos_csv_url = f'https://raw.githubusercontent.com/elimu-ai/webapp/main/src/main/resources/db/content_PROD/{language_code.lower()}/videos.csv'
@@ -77,10 +98,7 @@ for language_code in language_codes:
         random_number_of_events = random.randrange(0, 20)
         print(basename(__file__), f'random_number_of_events: {random_number_of_events}')
         for i in range(random_number_of_events):
-            print(basename(__file__))
-            event = simulate_video_learning_event(android_id, videos_df)
-            # print(basename(__file__), f'event: {event}')
-            video_learning_events.append(event)
+            simulate_video_learning_event(android_id, videos_df, video_learning_events)
         
         video_learning_events_df = pandas.DataFrame(video_learning_events)
         # print(basename(__file__), f'video_learning_events_df: \n{video_learning_events_df}')
