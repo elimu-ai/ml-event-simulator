@@ -23,7 +23,8 @@ print(basename(__file__), f'analytics_version_code: {analytics_version_code}')
 date_iso_8601 = datetime.today().strftime('%Y-%m-%d')
 print(basename(__file__), f'date_iso_8601: {date_iso_8601}')
 
-def simulateVideoLearningEvent(android_id):
+def simulate_video_learning_event(android_id, videos_df: pandas.DataFrame):
+    print(basename(__file__), 'simulate_video_learning_event')
     """
     Simulate a VideoLearningEvent, e.g. a video being opened.
     
@@ -33,12 +34,19 @@ def simulateVideoLearningEvent(android_id):
     id = 0
     timestamp = int(datetime.now().timestamp())
 
+    # Locate a random video in the DataFrame
+    number_of_videos = len(videos_df.index)
+    random_video_index = random.randrange(0, number_of_videos)
+    random_video = videos_df.loc[random_video_index]
+
     return {
         'id': id,
         'timestamp': timestamp,
         'android_id': android_id,
         'package_name': package_name,
-        'video_id': 0
+        'video_id': random_video.id,
+        'video_title': random_video.title,
+        'learning_event_type': ''
     }
 
 for language_code in language_codes:
@@ -49,6 +57,11 @@ for language_code in language_codes:
     print(basename(__file__), f'videos_csv_url: {videos_csv_url}')
     videos_df = pandas.read_csv(videos_csv_url)
     print(basename(__file__), f'videos_df: \n{videos_df}')
+    number_of_videos = len(videos_df.index)
+    print(basename(__file__), f'number_of_videos: {number_of_videos}')
+    if (number_of_videos == 0):
+        print(basename(__file__), 'Zero videos. Skipping event simulation.')
+        continue
 
     base_url = f'http://{language_code.lower()}.elimu.ai'
     print(basename(__file__), f'base_url: {base_url}')
@@ -65,12 +78,12 @@ for language_code in language_codes:
         print(basename(__file__), f'random_number_of_events: {random_number_of_events}')
         for i in range(random_number_of_events):
             print(basename(__file__))
-            event = simulateVideoLearningEvent(android_id)
-            print(basename(__file__), f'event: {event}')
+            event = simulate_video_learning_event(android_id, videos_df)
+            # print(basename(__file__), f'event: {event}')
             video_learning_events.append(event)
         
         video_learning_events_df = pandas.DataFrame(video_learning_events)
-        print(basename(__file__), f'video_learning_events_df: \n{video_learning_events_df}')
+        # print(basename(__file__), f'video_learning_events_df: \n{video_learning_events_df}')
 
         # Export to CSV
         language_dir = f'lang-{language_code}'
