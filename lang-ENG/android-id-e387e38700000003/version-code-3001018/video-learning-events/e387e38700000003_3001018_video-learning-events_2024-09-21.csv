@@ -1,9 +1,13 @@
 id,timestamp,android_id,package_name,video_id,video_title,learning_event_type
-0,1726906431999,e387e38700000003,ai.elimu.analytics,6,akili and me - letter f,VIDEO_OPENED
-0,1726906469369,e387e38700000003,ai.elimu.analytics,6,akili and me - letter f,VIDEO_COMPLETED
-0,1726906432000,e387e38700000003,ai.elimu.analytics,12,akili and me - numbers - one two three song,VIDEO_OPENED
-0,1726906458941,e387e38700000003,ai.elimu.analytics,12,akili and me - numbers - one two three song,VIDEO_COMPLETED
-0,1726906432000,e387e38700000003,ai.elimu.analytics,4,akili and me - letter d,VIDEO_OPENED
-0,1726906443514,e387e38700000003,ai.elimu.analytics,4,akili and me - letter d,VIDEO_COMPLETED
-0,1726906432000,e387e38700000003,ai.elimu.analytics,7,akili and me - letter g,VIDEO_OPENED
-0,1726906479919,e387e38700000003,ai.elimu.analytics,7,akili and me - letter g,VIDEO_CLOSED_BEFORE_COMPLETED
+0,1726906949635,e387e38700000003,ai.elimu.analytics,3,akili and me - letter c,VIDEO_OPENED
+0,1726906971807,e387e38700000003,ai.elimu.analytics,3,akili and me - letter c,VIDEO_CLOSED_BEFORE_COMPLETION
+0,1726906949636,e387e38700000003,ai.elimu.analytics,3,akili and me - letter c,VIDEO_OPENED
+0,1726906978367,e387e38700000003,ai.elimu.analytics,3,akili and me - letter c,VIDEO_COMPLETED
+0,1726906949636,e387e38700000003,ai.elimu.analytics,34,akili and me - letter j,VIDEO_OPENED
+0,1726907008313,e387e38700000003,ai.elimu.analytics,34,akili and me - letter j,VIDEO_COMPLETED
+0,1726906949636,e387e38700000003,ai.elimu.analytics,10,akili and me - music,VIDEO_OPENED
+0,1726906977635,e387e38700000003,ai.elimu.analytics,10,akili and me - music,VIDEO_COMPLETED
+0,1726906949637,e387e38700000003,ai.elimu.analytics,4,akili and me - letter d,VIDEO_OPENED
+0,1726906979481,e387e38700000003,ai.elimu.analytics,4,akili and me - letter d,VIDEO_COMPLETED
+0,1726906949637,e387e38700000003,ai.elimu.analytics,8,akili and me - family,VIDEO_OPENED
+0,1726906977782,e387e38700000003,ai.elimu.analytics,8,akili and me - family,VIDEO_COMPLETED

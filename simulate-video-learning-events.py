@@ -41,7 +41,7 @@ def simulate_video_learning_event(android_id, videos_df: pandas.DataFrame, video
     random_video = videos_df.loc[random_video_index]
 
     # https://github.com/elimu-ai/model/blob/main/src/main/java/ai/elimu/model/v2/enums/analytics/LearningEventType.java
-    learning_event_types = ['VIDEO_OPENED', 'VIDEO_CLOSED_BEFORE_COMPLETED', 'VIDEO_COMPLETED']
+    learning_event_types = ['VIDEO_OPENED', 'VIDEO_CLOSED_BEFORE_COMPLETION', 'VIDEO_COMPLETED']
 
     video_learning_events.append({
         'id': id,
