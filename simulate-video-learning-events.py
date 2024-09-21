@@ -10,13 +10,18 @@ print(basename(__file__), f'language_codes: {language_codes}')
 android_ids = ['e387e38700000001', 'e387e38700000002', 'e387e38700000003']
 print(basename(__file__), f'android_ids: {android_ids}')
 
+# Should match the package name (`applicationId`) of the Analytics app: 
+# https://github.com/elimu-ai/analytics/blob/main/app/build.gradle
+package_name = 'ai.elimu.analytics'
+print(basename(__file__), f'package_name: {package_name}')
+
 # Should be the same version as the most recent release of the Analytics app: 
 # https://github.com/elimu-ai/analytics/releases
 analytics_version_code = 3001018
 print(basename(__file__), f'analytics_version_code: {analytics_version_code}')
 
-date = datetime.today().strftime('%Y-%m-%d')
-print(basename(__file__), f'date: {date}')
+date_iso_8601 = datetime.today().strftime('%Y-%m-%d')
+print(basename(__file__), f'date_iso_8601: {date_iso_8601}')
 
 def simulateVideoLearningEvent(android_id):
     """
@@ -26,11 +31,14 @@ def simulateVideoLearningEvent(android_id):
     """
 
     id = 0
-    time = 0
+    timestamp = int(datetime.now().timestamp())
 
     return {
         'id': id,
-        'time': time
+        'timestamp': timestamp,
+        'android_id': android_id,
+        'package_name': package_name,
+        'video_id': 0
     }
 
 for language_code in language_codes:
@@ -68,9 +76,9 @@ for language_code in language_codes:
         language_dir = f'lang-{language_code}'
         android_id_dir = os.path.join(language_dir, f'android-id-{android_id}')
         version_code_dir = os.path.join(android_id_dir, f'version-code-{analytics_version_code}')
-        storybook_learning_events_dir = os.path.join(version_code_dir, f'storybook-learning-events')
-        if not os.path.exists(storybook_learning_events_dir):
-            os.makedirs(storybook_learning_events_dir)
-        csv_path = os.path.join(storybook_learning_events_dir, f'{android_id}_{analytics_version_code}_storybook-learning-events_{date}.csv')
+        video_learning_events_dir = os.path.join(version_code_dir, f'video-learning-events')
+        if not os.path.exists(video_learning_events_dir):
+            os.makedirs(video_learning_events_dir)
+        csv_path = os.path.join(video_learning_events_dir, f'{android_id}_{analytics_version_code}_video-learning-events_{date_iso_8601}.csv')
         print(basename(__file__), f'csv_path: \n{csv_path}')
         video_learning_events_df.to_csv(csv_path, index=False)
