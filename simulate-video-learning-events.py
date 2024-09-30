@@ -85,19 +85,28 @@ for language_code in language_codes:
         print(basename(__file__), 'Zero videos. Skipping event simulation.')
         continue
 
-    base_url = f'http://{language_code.lower()}.elimu.ai'
+    # base_url = f'http://{language_code.lower()}.elimu.ai'
+    base_url = 'http://localhost:8080/webapp'
     print(basename(__file__), f'base_url: {base_url}')
 
     rest_url = f'{base_url}/rest/v2'
     print(basename(__file__), f'rest_url: {rest_url}')
 
     for android_id in android_ids:
-        print(basename(__file__))
+        print()
         print(basename(__file__), f'android_id: {android_id}')
+
+        # Make it 30% likely that the student will skip learning
+        random_learning_probability = random.randrange(0, 100)
+        print(basename(__file__), f'random_learning_probability: {random_learning_probability}%')
+        if (random_learning_probability < 30):
+            continue
         
         video_learning_events = []
         random_number_of_events = random.randrange(0, 20)
         print(basename(__file__), f'random_number_of_events: {random_number_of_events}')
+        if (random_number_of_events == 0):
+            continue
         for i in range(random_number_of_events):
             simulate_video_learning_event(android_id, videos_df, video_learning_events)
         
@@ -118,7 +127,7 @@ for language_code in language_codes:
         # Upload to webapp's REST API
         endpoint_url = f'{rest_url}/analytics/video-learning-events/csv'
         print(basename(__file__), f'endpoint_url: {endpoint_url}')
-    with open(csv_path, 'r') as file:
-        files = {'file': file}
-        request = requests.post(endpoint_url, files=files)
-        print(f'request: {request}')
+        with open(csv_path, 'r') as file:
+            files = {'file': file}
+            response = requests.post(endpoint_url, files=files)
+            print(basename(__file__), f'response: {response}')
