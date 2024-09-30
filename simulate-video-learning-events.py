@@ -118,7 +118,7 @@ for language_code in language_codes:
         language_dir = f'lang-{language_code}'
         android_id_dir = os.path.join(language_dir, f'android-id-{android_id}')
         version_code_dir = os.path.join(android_id_dir, f'version-code-{analytics_version_code}')
-        video_learning_events_dir = os.path.join(version_code_dir, f'video-learning-events')
+        video_learning_events_dir = os.path.join(version_code_dir, 'video-learning-events')
         if not os.path.exists(video_learning_events_dir):
             os.makedirs(video_learning_events_dir)
         csv_path = os.path.join(video_learning_events_dir, f'{android_id}_{analytics_version_code}_video-learning-events_{date_iso_8601}.csv')
