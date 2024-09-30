@@ -53,8 +53,8 @@ def simulate_video_learning_event(android_id, videos_df: pandas.DataFrame, video
         'learning_event_type': learning_event_types[0]
     })
 
-    # A `VIDEO_OPENED_EVENT` should always be followed by a `VIDEO_CLOSED_BEFORE_COMPLETED` or 
-    # a `VIDEO_COMPLETED` event.
+    # A `VIDEO_OPENED_EVENT` should always be followed by a `VIDEO_CLOSED_BEFORE_COMPLETED` 
+    # event or a `VIDEO_COMPLETED` event.
     second_learning_event_type = random.choice(learning_event_types[1:])
 
     # Increase timestamp to simulate passage of time between the `VIDEO_OPENED` event and the 
@@ -68,7 +68,7 @@ def simulate_video_learning_event(android_id, videos_df: pandas.DataFrame, video
         'package_name': package_name,
         'video_id': random_video.id,
         'video_title': random_video.title,
-        'learning_event_type': random.choice(learning_event_types[-2:]),
+        'learning_event_type': second_learning_event_type,
         'additional_data': {'video_playback_position_ms': random.randrange(1000, 60000)}
     })
 
