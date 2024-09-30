@@ -85,8 +85,8 @@ for language_code in language_codes:
         print(basename(__file__), 'Zero videos. Skipping event simulation.')
         continue
 
-    # base_url = f'http://{language_code.lower()}.elimu.ai'
-    base_url = 'http://localhost:8080/webapp'
+    base_url = f'http://{language_code.lower()}.elimu.ai'
+    # base_url = 'http://localhost:8080/webapp'
     print(basename(__file__), f'base_url: {base_url}')
 
     rest_url = f'{base_url}/rest/v2'
