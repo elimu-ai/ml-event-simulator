@@ -1,0 +1,5 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1727957765981,e387e38700000002,ai.elimu.analytics,8,akili and me - family,VIDEO_OPENED,
+0,1727957813097,e387e38700000002,ai.elimu.analytics,8,akili and me - family,VIDEO_COMPLETED,{'video_playback_position_ms': 22771}
+0,1727957765981,e387e38700000002,ai.elimu.analytics,13,akili and me - the rectangle song,VIDEO_OPENED,
+0,1727957792759,e387e38700000002,ai.elimu.analytics,13,akili and me - the rectangle song,VIDEO_COMPLETED,{'video_playback_position_ms': 42818}

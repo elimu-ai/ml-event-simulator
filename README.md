@@ -1,4 +1,6 @@
-# ML: Event Simulator
+# ML: Event Simulator 🤖
+
+> Simulation of [learning events](https://github.com/elimu-ai/model/blob/main/src/main/java/ai/elimu/model/v2/gson/analytics/LearningEventGson.java) and [assessment events](https://github.com/elimu-ai/model/blob/main/src/main/java/ai/elimu/model/v2/gson/analytics/AssessmentEventGson.java)
 
 ## Simulate `VideoLearningEvent`s
 
