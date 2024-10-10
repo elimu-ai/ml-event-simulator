@@ -1,0 +1,21 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1728562563133,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1728562598425,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 25238}
+0,1728562563133,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1728562620357,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 38694}
+0,1728562563133,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1728562579528,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 17190}
+0,1728562563133,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1728562577587,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 59748}
+0,1728562563133,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1728562572418,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 1811}
+0,1728562563133,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1728562616452,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 7948}
+0,1728562563133,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1728562586758,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 19765}
+0,1728562563134,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1728562592901,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 57096}
+0,1728562563134,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1728562570939,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 42600}
+0,1728562563134,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1728562609073,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 7790}
