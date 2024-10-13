@@ -1,0 +1,5 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1728821670867,e387e38700000002,ai.elimu.analytics,4,akili and me - letter d,VIDEO_OPENED,
+0,1728821698598,e387e38700000002,ai.elimu.analytics,4,akili and me - letter d,VIDEO_COMPLETED,{'video_playback_position_ms': 14947}
+0,1728821670867,e387e38700000002,ai.elimu.analytics,3,akili and me - letter c,VIDEO_OPENED,
+0,1728821703859,e387e38700000002,ai.elimu.analytics,3,akili and me - letter c,VIDEO_COMPLETED,{'video_playback_position_ms': 8643}
