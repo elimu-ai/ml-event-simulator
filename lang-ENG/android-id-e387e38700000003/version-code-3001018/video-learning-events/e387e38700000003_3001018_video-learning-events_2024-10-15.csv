@@ -1,0 +1,15 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1728994596302,e387e38700000003,ai.elimu.analytics,14,akili and me - counting compilation,VIDEO_OPENED,
+0,1728994602841,e387e38700000003,ai.elimu.analytics,14,akili and me - counting compilation,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 32500}
+0,1728994596302,e387e38700000003,ai.elimu.analytics,2,akili and me - letter b,VIDEO_OPENED,
+0,1728994602432,e387e38700000003,ai.elimu.analytics,2,akili and me - letter b,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 55343}
+0,1728994596302,e387e38700000003,ai.elimu.analytics,33,akili and me - letter i,VIDEO_OPENED,
+0,1728994609530,e387e38700000003,ai.elimu.analytics,33,akili and me - letter i,VIDEO_COMPLETED,{'video_playback_position_ms': 40525}
+0,1728994596302,e387e38700000003,ai.elimu.analytics,9,akili and me - jump jump jump,VIDEO_OPENED,
+0,1728994651563,e387e38700000003,ai.elimu.analytics,9,akili and me - jump jump jump,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 48805}
+0,1728994596302,e387e38700000003,ai.elimu.analytics,11,akili and me - art - drawing rectangles,VIDEO_OPENED,
+0,1728994643430,e387e38700000003,ai.elimu.analytics,11,akili and me - art - drawing rectangles,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 19335}
+0,1728994596302,e387e38700000003,ai.elimu.analytics,9,akili and me - jump jump jump,VIDEO_OPENED,
+0,1728994625799,e387e38700000003,ai.elimu.analytics,9,akili and me - jump jump jump,VIDEO_COMPLETED,{'video_playback_position_ms': 52796}
+0,1728994596302,e387e38700000003,ai.elimu.analytics,13,akili and me - the rectangle song,VIDEO_OPENED,
+0,1728994642247,e387e38700000003,ai.elimu.analytics,13,akili and me - the rectangle song,VIDEO_COMPLETED,{'video_playback_position_ms': 18370}
