@@ -1,0 +1,3 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1729167366227,e387e38700000002,ai.elimu.analytics,14,akili and me - counting compilation,VIDEO_OPENED,
+0,1729167377403,e387e38700000002,ai.elimu.analytics,14,akili and me - counting compilation,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 35809}
