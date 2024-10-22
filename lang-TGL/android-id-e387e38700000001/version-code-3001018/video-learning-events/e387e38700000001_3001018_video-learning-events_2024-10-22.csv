@@ -1,0 +1,13 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1729595622140,e387e38700000001,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1729595670555,e387e38700000001,ai.elimu.analytics,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 26987}
+0,1729595622140,e387e38700000001,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1729595672300,e387e38700000001,ai.elimu.analytics,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 54520}
+0,1729595622141,e387e38700000001,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1729595666195,e387e38700000001,ai.elimu.analytics,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 40672}
+0,1729595622141,e387e38700000001,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1729595662102,e387e38700000001,ai.elimu.analytics,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 3517}
+0,1729595622141,e387e38700000001,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1729595657768,e387e38700000001,ai.elimu.analytics,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 11214}
+0,1729595622141,e387e38700000001,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1729595624500,e387e38700000001,ai.elimu.analytics,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 53626}
