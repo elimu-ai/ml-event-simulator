@@ -1,0 +1,5 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1729858558007,e387e38700000001,ai.elimu.analytics,12,akili and me - numbers - one two three song,VIDEO_OPENED,
+0,1729858595899,e387e38700000001,ai.elimu.analytics,12,akili and me - numbers - one two three song,VIDEO_COMPLETED,{'video_playback_position_ms': 37139}
+0,1729858558007,e387e38700000001,ai.elimu.analytics,14,akili and me - counting compilation,VIDEO_OPENED,
+0,1729858573731,e387e38700000001,ai.elimu.analytics,14,akili and me - counting compilation,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 13121}
