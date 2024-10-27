@@ -1,0 +1,23 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1730031281320,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1730031335043,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 4158}
+0,1730031281320,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1730031336654,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 37292}
+0,1730031281320,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1730031292571,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 30403}
+0,1730031281320,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1730031309652,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 51236}
+0,1730031281320,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1730031338069,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 28295}
+0,1730031281320,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1730031305445,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 31334}
+0,1730031281320,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1730031321168,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 39094}
+0,1730031281320,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1730031333497,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 50132}
+0,1730031281320,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1730031331225,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 15530}
+0,1730031281321,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1730031288559,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 1913}
+0,1730031281321,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_OPENED,
+0,1730031336506,e387e38700000002,ai.elimu.analytics,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 49151}
