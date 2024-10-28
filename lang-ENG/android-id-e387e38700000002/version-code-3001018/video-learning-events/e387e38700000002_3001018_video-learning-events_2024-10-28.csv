@@ -1,0 +1,25 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1730117827614,e387e38700000002,ai.elimu.analytics,35,akili and me - letter k,VIDEO_OPENED,
+0,1730117844105,e387e38700000002,ai.elimu.analytics,35,akili and me - letter k,VIDEO_COMPLETED,{'video_playback_position_ms': 15493}
+0,1730117827614,e387e38700000002,ai.elimu.analytics,8,akili and me - family,VIDEO_OPENED,
+0,1730117837672,e387e38700000002,ai.elimu.analytics,8,akili and me - family,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 38059}
+0,1730117827614,e387e38700000002,ai.elimu.analytics,10,akili and me - music,VIDEO_OPENED,
+0,1730117865672,e387e38700000002,ai.elimu.analytics,10,akili and me - music,VIDEO_COMPLETED,{'video_playback_position_ms': 25199}
+0,1730117827614,e387e38700000002,ai.elimu.analytics,14,akili and me - counting compilation,VIDEO_OPENED,
+0,1730117874633,e387e38700000002,ai.elimu.analytics,14,akili and me - counting compilation,VIDEO_COMPLETED,{'video_playback_position_ms': 1171}
+0,1730117827614,e387e38700000002,ai.elimu.analytics,9,akili and me - jump jump jump,VIDEO_OPENED,
+0,1730117835220,e387e38700000002,ai.elimu.analytics,9,akili and me - jump jump jump,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 44878}
+0,1730117827614,e387e38700000002,ai.elimu.analytics,33,akili and me - letter i,VIDEO_OPENED,
+0,1730117836562,e387e38700000002,ai.elimu.analytics,33,akili and me - letter i,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 26581}
+0,1730117827614,e387e38700000002,ai.elimu.analytics,32,akili and me - letter h,VIDEO_OPENED,
+0,1730117878456,e387e38700000002,ai.elimu.analytics,32,akili and me - letter h,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 17667}
+0,1730117827614,e387e38700000002,ai.elimu.analytics,4,akili and me - letter d,VIDEO_OPENED,
+0,1730117854437,e387e38700000002,ai.elimu.analytics,4,akili and me - letter d,VIDEO_COMPLETED,{'video_playback_position_ms': 37159}
+0,1730117827615,e387e38700000002,ai.elimu.analytics,10,akili and me - music,VIDEO_OPENED,
+0,1730117828677,e387e38700000002,ai.elimu.analytics,10,akili and me - music,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 51266}
+0,1730117827615,e387e38700000002,ai.elimu.analytics,12,akili and me - numbers - one two three song,VIDEO_OPENED,
+0,1730117854986,e387e38700000002,ai.elimu.analytics,12,akili and me - numbers - one two three song,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 19633}
+0,1730117827615,e387e38700000002,ai.elimu.analytics,32,akili and me - letter h,VIDEO_OPENED,
+0,1730117855690,e387e38700000002,ai.elimu.analytics,32,akili and me - letter h,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 27338}
+0,1730117827615,e387e38700000002,ai.elimu.analytics,2,akili and me - letter b,VIDEO_OPENED,
+0,1730117871071,e387e38700000002,ai.elimu.analytics,2,akili and me - letter b,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 42500}
