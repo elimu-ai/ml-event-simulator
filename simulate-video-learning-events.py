@@ -11,9 +11,9 @@ print(basename(__file__), f'language_codes: {language_codes}')
 android_ids = ['e387e38700000001', 'e387e38700000002', 'e387e38700000003']
 print(basename(__file__), f'android_ids: {android_ids}')
 
-# Should match the package name (`applicationId`) of the Analytics app: 
-# https://github.com/elimu-ai/analytics/blob/main/app/build.gradle
-package_name = 'ai.elimu.analytics'
+# Should match the package name (`applicationId`) of the Application where 
+# the event originated (e.g. `ai.elimu.vitabu`)
+package_name = 'ai.elimu.filamu'
 print(basename(__file__), f'package_name: {package_name}')
 
 # Should be the same version as the most recent release of the Analytics app: 
