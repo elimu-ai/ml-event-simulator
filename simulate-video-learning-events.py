@@ -24,6 +24,9 @@ print(basename(__file__), f'analytics_version_code: {analytics_version_code}')
 date_iso_8601 = datetime.today().strftime('%Y-%m-%d')
 print(basename(__file__), f'date_iso_8601: {date_iso_8601}')
 
+timestamp_ms = int(datetime.now().timestamp() * 1_000)
+print(basename(__file__), f'timestamp_ms: {timestamp_ms}')
+
 def simulate_video_learning_event(android_id, videos_df: pandas.DataFrame, video_learning_events):
     print(basename(__file__), 'simulate_video_learning_event')
     """
@@ -32,8 +35,14 @@ def simulate_video_learning_event(android_id, videos_df: pandas.DataFrame, video
     Should match the CSV format in https://github.com/elimu-ai/analytics/blob/main/app/src/main/java/ai/elimu/analytics/task/ExportEventsToCsvWorker.java
     """
 
+    # Increment database ID
+    # TODO
     id = 0
-    timestamp_ms = int(datetime.now().timestamp() * 1_000)
+
+    # Increase timestamp to simulate passage of time between events for different 
+    # videos. Increase by a random number between 15 seconds and 120 seconds.
+    global timestamp_ms
+    timestamp_ms += random.randrange(1_000 * 15, 1_000 * 120)
 
     # Locate a random video in the DataFrame
     number_of_videos = len(videos_df.index)
@@ -58,8 +67,8 @@ def simulate_video_learning_event(android_id, videos_df: pandas.DataFrame, video
     second_learning_event_type = random.choice(learning_event_types[1:])
 
     # Increase timestamp to simulate passage of time between the `VIDEO_OPENED` event and the 
-    # second event. Increase by a random number between 1 second and 60 seconds.
-    timestamp_ms += random.randrange(1_000, 1_000 * 60)
+    # second event. Increase by a random number between 2 seconds and 60 seconds.
+    timestamp_ms += random.randrange(1_000 * 2, 1_000 * 60)
 
     video_learning_events.append({
         'id': id,
