@@ -1,0 +1,21 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1732191542814,e387e38700000001,ai.elimu.filamu,42,one small step,VIDEO_OPENED,
+0,1732191562276,e387e38700000001,ai.elimu.filamu,42,one small step,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 22276}
+0,1732191654897,e387e38700000001,ai.elimu.filamu,33,akili and me - letter i,VIDEO_OPENED,
+0,1732191664491,e387e38700000001,ai.elimu.filamu,33,akili and me - letter i,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 5022}
+0,1732191770734,e387e38700000001,ai.elimu.filamu,14,akili and me - counting compilation,VIDEO_OPENED,
+0,1732191803070,e387e38700000001,ai.elimu.filamu,14,akili and me - counting compilation,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 2620}
+0,1732191883286,e387e38700000001,ai.elimu.filamu,8,akili and me - family,VIDEO_OPENED,
+0,1732191942663,e387e38700000001,ai.elimu.filamu,8,akili and me - family,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 14314}
+0,1732192057467,e387e38700000001,ai.elimu.filamu,34,akili and me - letter j,VIDEO_OPENED,
+0,1732192077175,e387e38700000001,ai.elimu.filamu,34,akili and me - letter j,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 5796}
+0,1732192189231,e387e38700000001,ai.elimu.filamu,34,akili and me - letter j,VIDEO_OPENED,
+0,1732192196817,e387e38700000001,ai.elimu.filamu,34,akili and me - letter j,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 50293}
+0,1732192214861,e387e38700000001,ai.elimu.filamu,35,akili and me - letter k,VIDEO_OPENED,
+0,1732192244812,e387e38700000001,ai.elimu.filamu,35,akili and me - letter k,VIDEO_COMPLETED,{'video_playback_position_ms': 56939}
+0,1732192315487,e387e38700000001,ai.elimu.filamu,33,akili and me - letter i,VIDEO_OPENED,
+0,1732192374564,e387e38700000001,ai.elimu.filamu,33,akili and me - letter i,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 30945}
+0,1732192461484,e387e38700000001,ai.elimu.filamu,42,one small step,VIDEO_OPENED,
+0,1732192497147,e387e38700000001,ai.elimu.filamu,42,one small step,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 17585}
+0,1732192593632,e387e38700000001,ai.elimu.filamu,36,akili and me - letter l,VIDEO_OPENED,
+0,1732192646022,e387e38700000001,ai.elimu.filamu,36,akili and me - letter l,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 54894}
