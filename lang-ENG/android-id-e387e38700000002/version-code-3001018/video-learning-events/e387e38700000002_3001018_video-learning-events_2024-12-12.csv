@@ -1,0 +1,7 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1734006530552,e387e38700000002,ai.elimu.filamu,42,one small step,VIDEO_OPENED,
+0,1734006540419,e387e38700000002,ai.elimu.filamu,42,one small step,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 16097}
+0,1734006615731,e387e38700000002,ai.elimu.filamu,5,akili and me - letter e,VIDEO_OPENED,
+0,1734006675391,e387e38700000002,ai.elimu.filamu,5,akili and me - letter e,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 4180}
+0,1734006725468,e387e38700000002,ai.elimu.filamu,42,one small step,VIDEO_OPENED,
+0,1734006764239,e387e38700000002,ai.elimu.filamu,42,one small step,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 50375}
