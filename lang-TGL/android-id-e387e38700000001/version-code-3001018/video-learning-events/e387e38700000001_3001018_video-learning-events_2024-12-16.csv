@@ -1,0 +1,21 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1734355819572,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1734355850683,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 43473}
+0,1734355917117,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1734355924867,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 58171}
+0,1734356005357,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1734356017331,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 24349}
+0,1734356032743,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1734356038024,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 58211}
+0,1734356081444,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1734356126273,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 53092}
+0,1734356196334,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1734356255345,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 30410}
+0,1734356344168,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1734356397568,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 36199}
+0,1734356515242,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1734356524784,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 51806}
+0,1734356627840,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1734356666151,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 42066}
+0,1734356734265,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1734356793478,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 21092}
