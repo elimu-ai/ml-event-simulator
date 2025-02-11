@@ -5,7 +5,7 @@ import pandas
 import random
 import requests
 
-language_codes = ['ENG', 'HIN', 'TGL']
+language_codes = ['ENG', 'HIN', 'TGL', 'THA']
 print(basename(__file__), f'language_codes: {language_codes}')
 
 android_ids = ['e387e38700000001', 'e387e38700000002', 'e387e38700000003']
