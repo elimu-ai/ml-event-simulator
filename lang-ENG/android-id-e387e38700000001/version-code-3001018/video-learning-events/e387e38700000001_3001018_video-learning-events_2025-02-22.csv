@@ -1,0 +1,35 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1740226497793,e387e38700000001,ai.elimu.filamu,6,akili and me - letter f,VIDEO_OPENED,
+0,1740226506328,e387e38700000001,ai.elimu.filamu,6,akili and me - letter f,VIDEO_COMPLETED,{'video_playback_position_ms': 41288}
+0,1740226613576,e387e38700000001,ai.elimu.filamu,34,akili and me - letter j,VIDEO_OPENED,
+0,1740226618313,e387e38700000001,ai.elimu.filamu,34,akili and me - letter j,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 52394}
+0,1740226649208,e387e38700000001,ai.elimu.filamu,1,akili and me - letter a,VIDEO_OPENED,
+0,1740226694695,e387e38700000001,ai.elimu.filamu,1,akili and me - letter a,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 28704}
+0,1740226799526,e387e38700000001,ai.elimu.filamu,43, count to ten with me,VIDEO_OPENED,
+0,1740226821666,e387e38700000001,ai.elimu.filamu,43, count to ten with me,VIDEO_COMPLETED,{'video_playback_position_ms': 49229}
+0,1740226913346,e387e38700000001,ai.elimu.filamu,3,akili and me - letter c,VIDEO_OPENED,
+0,1740226927185,e387e38700000001,ai.elimu.filamu,3,akili and me - letter c,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 49023}
+0,1740226998591,e387e38700000001,ai.elimu.filamu,34,akili and me - letter j,VIDEO_OPENED,
+0,1740227012997,e387e38700000001,ai.elimu.filamu,34,akili and me - letter j,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 56751}
+0,1740227084478,e387e38700000001,ai.elimu.filamu,11,akili and me - art - drawing rectangles,VIDEO_OPENED,
+0,1740227116765,e387e38700000001,ai.elimu.filamu,11,akili and me - art - drawing rectangles,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 24291}
+0,1740227177613,e387e38700000001,ai.elimu.filamu,5,akili and me - letter e,VIDEO_OPENED,
+0,1740227221555,e387e38700000001,ai.elimu.filamu,5,akili and me - letter e,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 20900}
+0,1740227264242,e387e38700000001,ai.elimu.filamu,36,akili and me - letter l,VIDEO_OPENED,
+0,1740227274363,e387e38700000001,ai.elimu.filamu,36,akili and me - letter l,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 43067}
+0,1740227295153,e387e38700000001,ai.elimu.filamu,10,akili and me - music,VIDEO_OPENED,
+0,1740227345060,e387e38700000001,ai.elimu.filamu,10,akili and me - music,VIDEO_COMPLETED,{'video_playback_position_ms': 12082}
+0,1740227384264,e387e38700000001,ai.elimu.filamu,35,akili and me - letter k,VIDEO_OPENED,
+0,1740227430561,e387e38700000001,ai.elimu.filamu,35,akili and me - letter k,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 48004}
+0,1740227472582,e387e38700000001,ai.elimu.filamu,33,akili and me - letter i,VIDEO_OPENED,
+0,1740227529617,e387e38700000001,ai.elimu.filamu,33,akili and me - letter i,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 34212}
+0,1740227584757,e387e38700000001,ai.elimu.filamu,11,akili and me - art - drawing rectangles,VIDEO_OPENED,
+0,1740227602853,e387e38700000001,ai.elimu.filamu,11,akili and me - art - drawing rectangles,VIDEO_COMPLETED,{'video_playback_position_ms': 47738}
+0,1740227715420,e387e38700000001,ai.elimu.filamu,34,akili and me - letter j,VIDEO_OPENED,
+0,1740227745225,e387e38700000001,ai.elimu.filamu,34,akili and me - letter j,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 29400}
+0,1740227860259,e387e38700000001,ai.elimu.filamu,9,akili and me - jump jump jump,VIDEO_OPENED,
+0,1740227878877,e387e38700000001,ai.elimu.filamu,9,akili and me - jump jump jump,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 2873}
+0,1740227923099,e387e38700000001,ai.elimu.filamu,4,akili and me - letter d,VIDEO_OPENED,
+0,1740227943789,e387e38700000001,ai.elimu.filamu,4,akili and me - letter d,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 6190}
+0,1740227996308,e387e38700000001,ai.elimu.filamu,34,akili and me - letter j,VIDEO_OPENED,
+0,1740228042736,e387e38700000001,ai.elimu.filamu,34,akili and me - letter j,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 28809}
