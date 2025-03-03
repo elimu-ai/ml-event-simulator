@@ -1,0 +1,7 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1741006257194,e387e38700000002,ai.elimu.filamu,43, count to ten with me,VIDEO_OPENED,
+0,1741006272435,e387e38700000002,ai.elimu.filamu,43, count to ten with me,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 34456}
+0,1741006390341,e387e38700000002,ai.elimu.filamu,33,akili and me - letter i,VIDEO_OPENED,
+0,1741006429168,e387e38700000002,ai.elimu.filamu,33,akili and me - letter i,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 23877}
+0,1741006446061,e387e38700000002,ai.elimu.filamu,32,akili and me - letter h,VIDEO_OPENED,
+0,1741006495192,e387e38700000002,ai.elimu.filamu,32,akili and me - letter h,VIDEO_COMPLETED,{'video_playback_position_ms': 46297}

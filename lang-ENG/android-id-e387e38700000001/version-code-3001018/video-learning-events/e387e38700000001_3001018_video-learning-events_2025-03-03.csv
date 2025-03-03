@@ -1,0 +1,37 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1741004336813,e387e38700000001,ai.elimu.filamu,2,akili and me - letter b,VIDEO_OPENED,
+0,1741004362203,e387e38700000001,ai.elimu.filamu,2,akili and me - letter b,VIDEO_COMPLETED,{'video_playback_position_ms': 36129}
+0,1741004402571,e387e38700000001,ai.elimu.filamu,43, count to ten with me,VIDEO_OPENED,
+0,1741004430980,e387e38700000001,ai.elimu.filamu,43, count to ten with me,VIDEO_COMPLETED,{'video_playback_position_ms': 52721}
+0,1741004520585,e387e38700000001,ai.elimu.filamu,13,akili and me - the rectangle song,VIDEO_OPENED,
+0,1741004570294,e387e38700000001,ai.elimu.filamu,13,akili and me - the rectangle song,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 18007}
+0,1741004586526,e387e38700000001,ai.elimu.filamu,35,akili and me - letter k,VIDEO_OPENED,
+0,1741004629600,e387e38700000001,ai.elimu.filamu,35,akili and me - letter k,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 13296}
+0,1741004737483,e387e38700000001,ai.elimu.filamu,34,akili and me - letter j,VIDEO_OPENED,
+0,1741004783774,e387e38700000001,ai.elimu.filamu,34,akili and me - letter j,VIDEO_COMPLETED,{'video_playback_position_ms': 31623}
+0,1741004850780,e387e38700000001,ai.elimu.filamu,12,akili and me - numbers - one two three song,VIDEO_OPENED,
+0,1741004901289,e387e38700000001,ai.elimu.filamu,12,akili and me - numbers - one two three song,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 19138}
+0,1741005016976,e387e38700000001,ai.elimu.filamu,1,akili and me - letter a,VIDEO_OPENED,
+0,1741005072230,e387e38700000001,ai.elimu.filamu,1,akili and me - letter a,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 46263}
+0,1741005096562,e387e38700000001,ai.elimu.filamu,3,akili and me - letter c,VIDEO_OPENED,
+0,1741005101039,e387e38700000001,ai.elimu.filamu,3,akili and me - letter c,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 2036}
+0,1741005138970,e387e38700000001,ai.elimu.filamu,8,akili and me - family,VIDEO_OPENED,
+0,1741005179650,e387e38700000001,ai.elimu.filamu,8,akili and me - family,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 19109}
+0,1741005219233,e387e38700000001,ai.elimu.filamu,43, count to ten with me,VIDEO_OPENED,
+0,1741005225022,e387e38700000001,ai.elimu.filamu,43, count to ten with me,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 17522}
+0,1741005299685,e387e38700000001,ai.elimu.filamu,7,akili and me - letter g,VIDEO_OPENED,
+0,1741005305800,e387e38700000001,ai.elimu.filamu,7,akili and me - letter g,VIDEO_COMPLETED,{'video_playback_position_ms': 41925}
+0,1741005397919,e387e38700000001,ai.elimu.filamu,10,akili and me - music,VIDEO_OPENED,
+0,1741005424721,e387e38700000001,ai.elimu.filamu,10,akili and me - music,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 45460}
+0,1741005536819,e387e38700000001,ai.elimu.filamu,7,akili and me - letter g,VIDEO_OPENED,
+0,1741005563500,e387e38700000001,ai.elimu.filamu,7,akili and me - letter g,VIDEO_COMPLETED,{'video_playback_position_ms': 47332}
+0,1741005666699,e387e38700000001,ai.elimu.filamu,12,akili and me - numbers - one two three song,VIDEO_OPENED,
+0,1741005714928,e387e38700000001,ai.elimu.filamu,12,akili and me - numbers - one two three song,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 18654}
+0,1741005761593,e387e38700000001,ai.elimu.filamu,34,akili and me - letter j,VIDEO_OPENED,
+0,1741005794877,e387e38700000001,ai.elimu.filamu,34,akili and me - letter j,VIDEO_COMPLETED,{'video_playback_position_ms': 35775}
+0,1741005844001,e387e38700000001,ai.elimu.filamu,7,akili and me - letter g,VIDEO_OPENED,
+0,1741005875563,e387e38700000001,ai.elimu.filamu,7,akili and me - letter g,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 39266}
+0,1741005979674,e387e38700000001,ai.elimu.filamu,33,akili and me - letter i,VIDEO_OPENED,
+0,1741006010968,e387e38700000001,ai.elimu.filamu,33,akili and me - letter i,VIDEO_COMPLETED,{'video_playback_position_ms': 27427}
+0,1741006117650,e387e38700000001,ai.elimu.filamu,43, count to ten with me,VIDEO_OPENED,
+0,1741006161406,e387e38700000001,ai.elimu.filamu,43, count to ten with me,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 57014}
