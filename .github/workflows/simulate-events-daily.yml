@@ -2,7 +2,7 @@ name: Simulate events (daily)
 
 on:
   schedule:
-    - cron: 59 11 * * *
+    - cron: 00 23 * * *
 
 jobs:
   simulate_events:
