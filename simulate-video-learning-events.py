@@ -85,7 +85,7 @@ for language_code in language_codes:
     print()
     print(basename(__file__), f'language_code: {language_code}')
 
-    videos_csv_url = f'https://raw.githubusercontent.com/elimu-ai/webapp/main/src/main/resources/db/content_PROD/{language_code.lower()}/videos.csv'
+    videos_csv_url = f'https://raw.githubusercontent.com/elimu-ai/webapp-lfs/refs/heads/main/lang-{language_code}/videos.csv'
     print(basename(__file__), f'videos_csv_url: {videos_csv_url}')
     videos_df = pandas.read_csv(videos_csv_url)
     print(basename(__file__), f'videos_df: \n{videos_df}')
