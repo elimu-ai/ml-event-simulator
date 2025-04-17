@@ -1,0 +1,21 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1744936187141,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1744936198196,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 12295}
+0,1744936309609,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1744936327552,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 12572}
+0,1744936345786,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1744936360359,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 10838}
+0,1744936383787,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1744936391048,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 36268}
+0,1744936499935,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1744936547617,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 5086}
+0,1744936575219,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1744936634712,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 52105}
+0,1744936735735,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1744936791145,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 6738}
+0,1744936836776,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1744936893911,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 46397}
+0,1744936991225,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1744936997176,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 4199}
+0,1744937114171,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1744937129996,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 10164}
