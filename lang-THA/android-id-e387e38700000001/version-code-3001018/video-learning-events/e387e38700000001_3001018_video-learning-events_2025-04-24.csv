@@ -1,0 +1,5 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1745541171868,e387e38700000001,ai.elimu.filamu,7,sample video 7 - re-encodeed,VIDEO_OPENED,
+0,1745541194276,e387e38700000001,ai.elimu.filamu,7,sample video 7 - re-encodeed,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 20739}
+0,1745541240664,e387e38700000001,ai.elimu.filamu,5,sample video 5 h264,VIDEO_OPENED,
+0,1745541257355,e387e38700000001,ai.elimu.filamu,5,sample video 5 h264,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 39774}
