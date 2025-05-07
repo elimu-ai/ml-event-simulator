@@ -1,0 +1,19 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1746661522622,e387e38700000003,ai.elimu.filamu,1,akili and me - letter a,VIDEO_OPENED,
+0,1746661527535,e387e38700000003,ai.elimu.filamu,1,akili and me - letter a,VIDEO_COMPLETED,{'video_playback_position_ms': 32474}
+0,1746661595062,e387e38700000003,ai.elimu.filamu,13,akili and me - the rectangle song,VIDEO_OPENED,
+0,1746661643026,e387e38700000003,ai.elimu.filamu,13,akili and me - the rectangle song,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 47189}
+0,1746661665841,e387e38700000003,ai.elimu.filamu,4,akili and me - letter d,VIDEO_OPENED,
+0,1746661708362,e387e38700000003,ai.elimu.filamu,4,akili and me - letter d,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 40525}
+0,1746661723755,e387e38700000003,ai.elimu.filamu,44,[test] a test video,VIDEO_OPENED,
+0,1746661768312,e387e38700000003,ai.elimu.filamu,44,[test] a test video,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 32708}
+0,1746661790635,e387e38700000003,ai.elimu.filamu,44,[test] a test video,VIDEO_OPENED,
+0,1746661806266,e387e38700000003,ai.elimu.filamu,44,[test] a test video,VIDEO_COMPLETED,{'video_playback_position_ms': 17136}
+0,1746661854991,e387e38700000003,ai.elimu.filamu,2,akili and me - letter b,VIDEO_OPENED,
+0,1746661893323,e387e38700000003,ai.elimu.filamu,2,akili and me - letter b,VIDEO_COMPLETED,{'video_playback_position_ms': 47957}
+0,1746661924024,e387e38700000003,ai.elimu.filamu,13,akili and me - the rectangle song,VIDEO_OPENED,
+0,1746661950077,e387e38700000003,ai.elimu.filamu,13,akili and me - the rectangle song,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 6895}
+0,1746661986175,e387e38700000003,ai.elimu.filamu,3,akili and me - letter c,VIDEO_OPENED,
+0,1746662015899,e387e38700000003,ai.elimu.filamu,3,akili and me - letter c,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 12691}
+0,1746662103824,e387e38700000003,ai.elimu.filamu,33,akili and me - letter i,VIDEO_OPENED,
+0,1746662151819,e387e38700000003,ai.elimu.filamu,33,akili and me - letter i,VIDEO_COMPLETED,{'video_playback_position_ms': 33634}
