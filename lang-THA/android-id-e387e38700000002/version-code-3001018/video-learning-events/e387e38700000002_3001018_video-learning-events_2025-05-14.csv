@@ -1,0 +1,21 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1747272678071,e387e38700000002,ai.elimu.filamu,9,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,VIDEO_OPENED,
+0,1747272721263,e387e38700000002,ai.elimu.filamu,9,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 27711}
+0,1747272782794,e387e38700000002,ai.elimu.filamu,9,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,VIDEO_OPENED,
+0,1747272810677,e387e38700000002,ai.elimu.filamu,9,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 38523}
+0,1747272835429,e387e38700000002,ai.elimu.filamu,1,test sample video,VIDEO_OPENED,
+0,1747272865178,e387e38700000002,ai.elimu.filamu,1,test sample video,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 19311}
+0,1747272910294,e387e38700000002,ai.elimu.filamu,5,sample video 5 h264,VIDEO_OPENED,
+0,1747272964799,e387e38700000002,ai.elimu.filamu,5,sample video 5 h264,VIDEO_COMPLETED,{'video_playback_position_ms': 42920}
+0,1747273024459,e387e38700000002,ai.elimu.filamu,5,sample video 5 h264,VIDEO_OPENED,
+0,1747273062930,e387e38700000002,ai.elimu.filamu,5,sample video 5 h264,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 20869}
+0,1747273137479,e387e38700000002,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_OPENED,
+0,1747273197438,e387e38700000002,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_COMPLETED,{'video_playback_position_ms': 17960}
+0,1747273301372,e387e38700000002,ai.elimu.filamu,5,sample video 5 h264,VIDEO_OPENED,
+0,1747273307554,e387e38700000002,ai.elimu.filamu,5,sample video 5 h264,VIDEO_COMPLETED,{'video_playback_position_ms': 32001}
+0,1747273406561,e387e38700000002,ai.elimu.filamu,5,sample video 5 h264,VIDEO_OPENED,
+0,1747273441776,e387e38700000002,ai.elimu.filamu,5,sample video 5 h264,VIDEO_COMPLETED,{'video_playback_position_ms': 51853}
+0,1747273508016,e387e38700000002,ai.elimu.filamu,1,test sample video,VIDEO_OPENED,
+0,1747273521863,e387e38700000002,ai.elimu.filamu,1,test sample video,VIDEO_COMPLETED,{'video_playback_position_ms': 39211}
+0,1747273566190,e387e38700000002,ai.elimu.filamu,9,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,VIDEO_OPENED,
+0,1747273618032,e387e38700000002,ai.elimu.filamu,9,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 4902}
