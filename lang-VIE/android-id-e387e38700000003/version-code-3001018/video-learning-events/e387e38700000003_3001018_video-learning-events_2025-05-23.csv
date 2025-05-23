@@ -1,0 +1,11 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1748051282848,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1748051296364,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 16548}
+0,1748051370490,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1748051373396,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 36293}
+0,1748051488031,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1748051536011,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 9993}
+0,1748051615525,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1748051635134,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 6753}
+0,1748051703086,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1748051757186,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 17164}
