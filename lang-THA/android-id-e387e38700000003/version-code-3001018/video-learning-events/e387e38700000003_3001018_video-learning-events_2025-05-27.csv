@@ -1,0 +1,21 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1748400082516,e387e38700000003,ai.elimu.filamu,7,sample video 7 - re-encodeed,VIDEO_OPENED,
+0,1748400093510,e387e38700000003,ai.elimu.filamu,7,sample video 7 - re-encodeed,VIDEO_COMPLETED,{'video_playback_position_ms': 38175}
+0,1748400164986,e387e38700000003,ai.elimu.filamu,9,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,VIDEO_OPENED,
+0,1748400200327,e387e38700000003,ai.elimu.filamu,9,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,VIDEO_COMPLETED,{'video_playback_position_ms': 3067}
+0,1748400253067,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_OPENED,
+0,1748400288255,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_COMPLETED,{'video_playback_position_ms': 3815}
+0,1748400370693,e387e38700000003,ai.elimu.filamu,5,sample video 5 h264,VIDEO_OPENED,
+0,1748400425120,e387e38700000003,ai.elimu.filamu,5,sample video 5 h264,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 12937}
+0,1748400473554,e387e38700000003,ai.elimu.filamu,7,sample video 7 - re-encodeed,VIDEO_OPENED,
+0,1748400505704,e387e38700000003,ai.elimu.filamu,7,sample video 7 - re-encodeed,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 33758}
+0,1748400562912,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_OPENED,
+0,1748400618180,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 56055}
+0,1748400717949,e387e38700000003,ai.elimu.filamu,1,test sample video,VIDEO_OPENED,
+0,1748400761631,e387e38700000003,ai.elimu.filamu,1,test sample video,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 2103}
+0,1748400780548,e387e38700000003,ai.elimu.filamu,1,test sample video,VIDEO_OPENED,
+0,1748400805954,e387e38700000003,ai.elimu.filamu,1,test sample video,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 29341}
+0,1748400897784,e387e38700000003,ai.elimu.filamu,1,test sample video,VIDEO_OPENED,
+0,1748400942227,e387e38700000003,ai.elimu.filamu,1,test sample video,VIDEO_COMPLETED,{'video_playback_position_ms': 30918}
+0,1748400961120,e387e38700000003,ai.elimu.filamu,1,test sample video,VIDEO_OPENED,
+0,1748400992183,e387e38700000003,ai.elimu.filamu,1,test sample video,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 44354}
