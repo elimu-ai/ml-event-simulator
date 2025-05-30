@@ -1,0 +1,11 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1748648889250,e387e38700000001,ai.elimu.filamu,1,test sample video,VIDEO_OPENED,
+0,1748648942133,e387e38700000001,ai.elimu.filamu,1,test sample video,VIDEO_COMPLETED,{'video_playback_position_ms': 32480}
+0,1748649028990,e387e38700000001,ai.elimu.filamu,1,test sample video,VIDEO_OPENED,
+0,1748649051290,e387e38700000001,ai.elimu.filamu,1,test sample video,VIDEO_COMPLETED,{'video_playback_position_ms': 58268}
+0,1748649068083,e387e38700000001,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_OPENED,
+0,1748649082679,e387e38700000001,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 22805}
+0,1748649136179,e387e38700000001,ai.elimu.filamu,1,test sample video,VIDEO_OPENED,
+0,1748649185893,e387e38700000001,ai.elimu.filamu,1,test sample video,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 55058}
+0,1748649210002,e387e38700000001,ai.elimu.filamu,5,sample video 5 h264,VIDEO_OPENED,
+0,1748649251426,e387e38700000001,ai.elimu.filamu,5,sample video 5 h264,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 39437}
