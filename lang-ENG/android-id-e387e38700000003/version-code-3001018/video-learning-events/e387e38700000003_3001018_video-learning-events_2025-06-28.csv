@@ -1,0 +1,37 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1751155167620,e387e38700000003,ai.elimu.filamu,1,akili and me - letter a,VIDEO_OPENED,
+0,1751155211699,e387e38700000003,ai.elimu.filamu,1,akili and me - letter a,VIDEO_COMPLETED,{'video_playback_position_ms': 14615}
+0,1751155270546,e387e38700000003,ai.elimu.filamu,2,akili and me - letter b,VIDEO_OPENED,
+0,1751155290779,e387e38700000003,ai.elimu.filamu,2,akili and me - letter b,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 12203}
+0,1751155357352,e387e38700000003,ai.elimu.filamu,4,akili and me - letter d,VIDEO_OPENED,
+0,1751155398872,e387e38700000003,ai.elimu.filamu,4,akili and me - letter d,VIDEO_COMPLETED,{'video_playback_position_ms': 3179}
+0,1751155457846,e387e38700000003,ai.elimu.filamu,13,akili and me - the rectangle song,VIDEO_OPENED,
+0,1751155506468,e387e38700000003,ai.elimu.filamu,13,akili and me - the rectangle song,VIDEO_COMPLETED,{'video_playback_position_ms': 31052}
+0,1751155582320,e387e38700000003,ai.elimu.filamu,3,akili and me - letter c,VIDEO_OPENED,
+0,1751155635819,e387e38700000003,ai.elimu.filamu,3,akili and me - letter c,VIDEO_COMPLETED,{'video_playback_position_ms': 12029}
+0,1751155687077,e387e38700000003,ai.elimu.filamu,2,akili and me - letter b,VIDEO_OPENED,
+0,1751155718285,e387e38700000003,ai.elimu.filamu,2,akili and me - letter b,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 45581}
+0,1751155837630,e387e38700000003,ai.elimu.filamu,4,akili and me - letter d,VIDEO_OPENED,
+0,1751155872510,e387e38700000003,ai.elimu.filamu,4,akili and me - letter d,VIDEO_COMPLETED,{'video_playback_position_ms': 26295}
+0,1751155897478,e387e38700000003,ai.elimu.filamu,1,akili and me - letter a,VIDEO_OPENED,
+0,1751155941633,e387e38700000003,ai.elimu.filamu,1,akili and me - letter a,VIDEO_COMPLETED,{'video_playback_position_ms': 26594}
+0,1751156027543,e387e38700000003,ai.elimu.filamu,33,akili and me - letter i,VIDEO_OPENED,
+0,1751156074352,e387e38700000003,ai.elimu.filamu,33,akili and me - letter i,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 19031}
+0,1751156145833,e387e38700000003,ai.elimu.filamu,44,[test] a test video,VIDEO_OPENED,
+0,1751156193565,e387e38700000003,ai.elimu.filamu,44,[test] a test video,VIDEO_COMPLETED,{'video_playback_position_ms': 52780}
+0,1751156228942,e387e38700000003,ai.elimu.filamu,33,akili and me - letter i,VIDEO_OPENED,
+0,1751156248154,e387e38700000003,ai.elimu.filamu,33,akili and me - letter i,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 45646}
+0,1751156343510,e387e38700000003,ai.elimu.filamu,2,akili and me - letter b,VIDEO_OPENED,
+0,1751156387281,e387e38700000003,ai.elimu.filamu,2,akili and me - letter b,VIDEO_COMPLETED,{'video_playback_position_ms': 29234}
+0,1751156484276,e387e38700000003,ai.elimu.filamu,44,[test] a test video,VIDEO_OPENED,
+0,1751156500842,e387e38700000003,ai.elimu.filamu,44,[test] a test video,VIDEO_COMPLETED,{'video_playback_position_ms': 9799}
+0,1751156570225,e387e38700000003,ai.elimu.filamu,44,[test] a test video,VIDEO_OPENED,
+0,1751156606591,e387e38700000003,ai.elimu.filamu,44,[test] a test video,VIDEO_COMPLETED,{'video_playback_position_ms': 54118}
+0,1751156651053,e387e38700000003,ai.elimu.filamu,44,[test] a test video,VIDEO_OPENED,
+0,1751156685694,e387e38700000003,ai.elimu.filamu,44,[test] a test video,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 15095}
+0,1751156798503,e387e38700000003,ai.elimu.filamu,33,akili and me - letter i,VIDEO_OPENED,
+0,1751156823139,e387e38700000003,ai.elimu.filamu,33,akili and me - letter i,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 31433}
+0,1751156922276,e387e38700000003,ai.elimu.filamu,44,[test] a test video,VIDEO_OPENED,
+0,1751156977080,e387e38700000003,ai.elimu.filamu,44,[test] a test video,VIDEO_COMPLETED,{'video_playback_position_ms': 10340}
+0,1751157068788,e387e38700000003,ai.elimu.filamu,44,[test] a test video,VIDEO_OPENED,
+0,1751157082794,e387e38700000003,ai.elimu.filamu,44,[test] a test video,VIDEO_COMPLETED,{'video_playback_position_ms': 6211}

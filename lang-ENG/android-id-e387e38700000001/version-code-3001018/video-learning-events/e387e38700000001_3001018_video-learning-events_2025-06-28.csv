@@ -1,0 +1,25 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1751153283051,e387e38700000001,ai.elimu.filamu,33,akili and me - letter i,VIDEO_OPENED,
+0,1751153303866,e387e38700000001,ai.elimu.filamu,33,akili and me - letter i,VIDEO_COMPLETED,{'video_playback_position_ms': 10011}
+0,1751153383948,e387e38700000001,ai.elimu.filamu,3,akili and me - letter c,VIDEO_OPENED,
+0,1751153419274,e387e38700000001,ai.elimu.filamu,3,akili and me - letter c,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 49325}
+0,1751153499636,e387e38700000001,ai.elimu.filamu,44,[test] a test video,VIDEO_OPENED,
+0,1751153522818,e387e38700000001,ai.elimu.filamu,44,[test] a test video,VIDEO_COMPLETED,{'video_playback_position_ms': 12056}
+0,1751153546488,e387e38700000001,ai.elimu.filamu,44,[test] a test video,VIDEO_OPENED,
+0,1751153590527,e387e38700000001,ai.elimu.filamu,44,[test] a test video,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 1323}
+0,1751153616600,e387e38700000001,ai.elimu.filamu,33,akili and me - letter i,VIDEO_OPENED,
+0,1751153630995,e387e38700000001,ai.elimu.filamu,33,akili and me - letter i,VIDEO_COMPLETED,{'video_playback_position_ms': 16343}
+0,1751153746769,e387e38700000001,ai.elimu.filamu,2,akili and me - letter b,VIDEO_OPENED,
+0,1751153754598,e387e38700000001,ai.elimu.filamu,2,akili and me - letter b,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 37959}
+0,1751153798551,e387e38700000001,ai.elimu.filamu,13,akili and me - the rectangle song,VIDEO_OPENED,
+0,1751153824777,e387e38700000001,ai.elimu.filamu,13,akili and me - the rectangle song,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 25718}
+0,1751153874854,e387e38700000001,ai.elimu.filamu,33,akili and me - letter i,VIDEO_OPENED,
+0,1751153894216,e387e38700000001,ai.elimu.filamu,33,akili and me - letter i,VIDEO_COMPLETED,{'video_playback_position_ms': 20753}
+0,1751153963391,e387e38700000001,ai.elimu.filamu,44,[test] a test video,VIDEO_OPENED,
+0,1751153995569,e387e38700000001,ai.elimu.filamu,44,[test] a test video,VIDEO_COMPLETED,{'video_playback_position_ms': 58463}
+0,1751154023576,e387e38700000001,ai.elimu.filamu,3,akili and me - letter c,VIDEO_OPENED,
+0,1751154035601,e387e38700000001,ai.elimu.filamu,3,akili and me - letter c,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 39919}
+0,1751154071684,e387e38700000001,ai.elimu.filamu,44,[test] a test video,VIDEO_OPENED,
+0,1751154086952,e387e38700000001,ai.elimu.filamu,44,[test] a test video,VIDEO_COMPLETED,{'video_playback_position_ms': 18586}
+0,1751154182248,e387e38700000001,ai.elimu.filamu,13,akili and me - the rectangle song,VIDEO_OPENED,
+0,1751154232357,e387e38700000001,ai.elimu.filamu,13,akili and me - the rectangle song,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 46657}
