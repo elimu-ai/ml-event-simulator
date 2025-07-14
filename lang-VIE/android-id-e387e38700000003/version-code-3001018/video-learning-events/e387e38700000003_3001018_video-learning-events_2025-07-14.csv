@@ -1,0 +1,23 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1752548389671,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1752548428869,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 30473}
+0,1752548538403,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1752548551933,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 10204}
+0,1752548665439,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1752548719434,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 9510}
+0,1752548774563,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1752548822338,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 22944}
+0,1752548871157,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1752548930667,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 3809}
+0,1752548995244,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1752549042575,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 6199}
+0,1752549129418,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1752549168675,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 12536}
+0,1752549251756,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1752549279474,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 27907}
+0,1752549376445,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1752549420910,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 6228}
+0,1752549518728,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1752549525140,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 37271}
+0,1752549544589,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1752549582882,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 30793}
