@@ -1,0 +1,21 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1753835803518,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_OPENED,
+0,1753835851732,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 41203}
+0,1753835901456,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_OPENED,
+0,1753835955390,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 29915}
+0,1753836020516,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_OPENED,
+0,1753836073169,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_COMPLETED,{'video_playback_position_ms': 2664}
+0,1753836137450,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_OPENED,
+0,1753836184653,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_COMPLETED,{'video_playback_position_ms': 33556}
+0,1753836205158,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_OPENED,
+0,1753836239904,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_COMPLETED,{'video_playback_position_ms': 56795}
+0,1753836332840,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_OPENED,
+0,1753836363281,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 47132}
+0,1753836410410,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_OPENED,
+0,1753836455735,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 21662}
+0,1753836523179,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_OPENED,
+0,1753836567475,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 14530}
+0,1753836629926,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_OPENED,
+0,1753836674019,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 44696}
+0,1753836689305,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_OPENED,
+0,1753836730483,e387e38700000003,ai.elimu.filamu,1,चिड़िया,VIDEO_COMPLETED,{'video_playback_position_ms': 44422}
