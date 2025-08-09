@@ -1,0 +1,9 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1754792144983,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_OPENED,
+0,1754792176926,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_COMPLETED,{'video_playback_position_ms': 15064}
+0,1754792270918,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_OPENED,
+0,1754792328933,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_COMPLETED,{'video_playback_position_ms': 13413}
+0,1754792364372,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_OPENED,
+0,1754792381264,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 20069}
+0,1754792401984,e387e38700000003,ai.elimu.filamu,7,sample video 7 - re-encodeed,VIDEO_OPENED,
+0,1754792415979,e387e38700000003,ai.elimu.filamu,7,sample video 7 - re-encodeed,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 22992}
