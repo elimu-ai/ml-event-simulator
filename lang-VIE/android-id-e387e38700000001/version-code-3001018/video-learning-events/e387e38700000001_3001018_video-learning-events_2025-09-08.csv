@@ -1,0 +1,21 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1757382159892,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1757382180387,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 37912}
+0,1757382283324,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1757382289839,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 4022}
+0,1757382408716,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1757382463963,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 59590}
+0,1757382488129,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1757382528004,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 10105}
+0,1757382589405,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1757382623058,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 42358}
+0,1757382646354,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1757382651685,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 25917}
+0,1757382768376,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1757382822504,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 38132}
+0,1757382857450,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1757382887301,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 50670}
+0,1757382978218,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1757383026331,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 12488}
+0,1757383116567,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1757383144875,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 30455}
