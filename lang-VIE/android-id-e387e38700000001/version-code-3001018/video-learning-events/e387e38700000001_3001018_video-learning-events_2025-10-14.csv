@@ -1,0 +1,21 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1760493524525,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1760493528808,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 3524}
+0,1760493633110,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1760493641435,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 48215}
+0,1760493683955,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1760493732722,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 1657}
+0,1760493767474,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1760493790130,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 17836}
+0,1760493871239,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1760493874380,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 25098}
+0,1760493947462,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1760493976787,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 2935}
+0,1760494062518,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1760494103803,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 14878}
+0,1760494214951,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1760494250337,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 2443}
+0,1760494300397,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1760494359724,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 42810}
+0,1760494428643,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1760494473953,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 15094}
