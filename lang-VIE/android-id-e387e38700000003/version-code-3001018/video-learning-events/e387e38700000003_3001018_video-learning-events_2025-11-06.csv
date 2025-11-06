@@ -1,0 +1,21 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1762481633505,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762481682883,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 32479}
+0,1762481743013,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762481800662,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 3490}
+0,1762481832045,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762481834415,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 22479}
+0,1762481885192,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762481893549,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 31830}
+0,1762481988666,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762482032798,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 16726}
+0,1762482125547,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762482131782,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 53462}
+0,1762482149891,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762482168135,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 52954}
+0,1762482206423,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762482257850,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 51378}
+0,1762482354830,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762482402926,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 36354}
+0,1762482439327,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762482481217,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 43248}
