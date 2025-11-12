@@ -1,0 +1,21 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1762997717473,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762997722321,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 31640}
+0,1762997737763,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762997759220,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 4571}
+0,1762997867524,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762997913645,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 48987}
+0,1762997989513,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762998031475,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 46712}
+0,1762998128764,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762998147314,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 5155}
+0,1762998265170,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762998316524,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 32146}
+0,1762998392364,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762998402369,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 43862}
+0,1762998514597,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762998522901,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 57327}
+0,1762998558703,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762998572069,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 59558}
+0,1762998646240,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1762998666060,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 8338}
