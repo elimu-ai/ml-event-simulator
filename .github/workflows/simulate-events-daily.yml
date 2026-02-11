@@ -3,6 +3,7 @@ name: Simulate events (daily)
 on:
   schedule:
     - cron: 10 23 * * *
+  workflow_dispatch:
 
 jobs:
   simulate_events:
