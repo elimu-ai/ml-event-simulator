@@ -1,0 +1,21 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1771374948688,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1771374954067,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 57202}
+0,1771374978377,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1771375007718,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 3349}
+0,1771375058986,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1771375110855,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 56856}
+0,1771375181165,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1771375220409,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 47326}
+0,1771375335559,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1771375378950,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 9233}
+0,1771375491961,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1771375531938,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 35715}
+0,1771375594976,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1771375639086,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 36004}
+0,1771375721848,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1771375771698,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 17464}
+0,1771375842694,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1771375878038,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 40948}
+0,1771375938433,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1771375973749,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 45654}
