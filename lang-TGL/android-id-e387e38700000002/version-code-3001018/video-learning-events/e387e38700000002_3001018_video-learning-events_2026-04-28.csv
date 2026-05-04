@@ -1,0 +1,5 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1777338882024,e387e38700000002,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1777338900907,e387e38700000002,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 34976}
+0,1777338934438,e387e38700000002,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1777338960684,e387e38700000002,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 49544}
