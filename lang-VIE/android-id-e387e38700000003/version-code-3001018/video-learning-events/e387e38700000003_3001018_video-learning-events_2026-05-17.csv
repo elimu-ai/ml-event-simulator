@@ -1,0 +1,37 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1778986219039,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1778986266841,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 47033}
+0,1778986360777,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1778986375681,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 31294}
+0,1778986464358,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1778986517216,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 44315}
+0,1778986571321,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1778986580487,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 15419}
+0,1778986676543,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1778986702214,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 38500}
+0,1778986723942,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1778986775156,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 7086}
+0,1778986819274,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1778986864955,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 4306}
+0,1778986930036,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1778986977949,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 47778}
+0,1778987024883,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1778987031389,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 59477}
+0,1778987136526,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1778987192736,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 19444}
+0,1778987286921,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1778987331988,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 41531}
+0,1778987362340,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1778987417166,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 1507}
+0,1778987462078,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1778987516624,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 52828}
+0,1778987619404,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1778987636994,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 10164}
+0,1778987688674,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1778987707456,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 57143}
+0,1778987806516,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1778987810540,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 33237}
+0,1778987840956,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1778987849132,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 53429}
+0,1778987940982,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1778987963181,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 40611}
