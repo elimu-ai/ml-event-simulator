@@ -1,0 +1,25 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1786586087649,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_OPENED,
+0,1786586090029,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 38955}
+0,1786586201733,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_OPENED,
+0,1786586260340,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_COMPLETED,{'video_playback_position_ms': 16685}
+0,1786586287169,e387e38700000003,ai.elimu.filamu,1,test sample video,VIDEO_OPENED,
+0,1786586297078,e387e38700000003,ai.elimu.filamu,1,test sample video,VIDEO_COMPLETED,{'video_playback_position_ms': 19704}
+0,1786586354877,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_OPENED,
+0,1786586384278,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 21792}
+0,1786586478080,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_OPENED,
+0,1786586535321,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_COMPLETED,{'video_playback_position_ms': 42366}
+0,1786586643123,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_OPENED,
+0,1786586702079,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 23711}
+0,1786586786743,e387e38700000003,ai.elimu.filamu,9,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,VIDEO_OPENED,
+0,1786586842434,e387e38700000003,ai.elimu.filamu,9,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 32543}
+0,1786586949414,e387e38700000003,ai.elimu.filamu,9,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,VIDEO_OPENED,
+0,1786586976781,e387e38700000003,ai.elimu.filamu,9,เพลง นับเลข 1-10 ｜ เพลงเด็กอนุบาล ｜ นับเล,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 9943}
+0,1786587015628,e387e38700000003,ai.elimu.filamu,1,test sample video,VIDEO_OPENED,
+0,1786587021266,e387e38700000003,ai.elimu.filamu,1,test sample video,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 24777}
+0,1786587125751,e387e38700000003,ai.elimu.filamu,1,test sample video,VIDEO_OPENED,
+0,1786587135079,e387e38700000003,ai.elimu.filamu,1,test sample video,VIDEO_COMPLETED,{'video_playback_position_ms': 57434}
+0,1786587208806,e387e38700000003,ai.elimu.filamu,5,sample video 5 h264,VIDEO_OPENED,
+0,1786587232857,e387e38700000003,ai.elimu.filamu,5,sample video 5 h264,VIDEO_COMPLETED,{'video_playback_position_ms': 50136}
+0,1786587256527,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_OPENED,
+0,1786587283626,e387e38700000003,ai.elimu.filamu,10,ฝึกเขียน ฝึกอ่านพยัญชนะภาษาไทย,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 16029}
