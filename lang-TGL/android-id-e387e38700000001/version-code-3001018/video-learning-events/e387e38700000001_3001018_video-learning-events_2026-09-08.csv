@@ -1,0 +1,25 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1788834639552,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1788834666429,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 48027}
+0,1788834707545,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1788834732387,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 33985}
+0,1788834843109,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1788834862022,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 20322}
+0,1788834926752,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1788834928767,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 37705}
+0,1788835020484,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1788835059951,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 39541}
+0,1788835088032,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1788835123923,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 19806}
+0,1788835208290,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1788835215024,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 18252}
+0,1788835315573,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1788835320766,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 23921}
+0,1788835404130,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1788835461356,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 28888}
+0,1788835514720,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1788835517565,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 34706}
+0,1788835577696,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1788835635597,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 24620}
+0,1788835729038,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1788835760724,e387e38700000001,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 8643}
