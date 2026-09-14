@@ -1,0 +1,21 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1789357014284,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1789357070052,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 6503}
+0,1789357118627,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1789357124062,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 8702}
+0,1789357229290,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1789357233174,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 17803}
+0,1789357345568,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1789357389722,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 44288}
+0,1789357477840,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1789357480603,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 59413}
+0,1789357583329,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1789357633971,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 54159}
+0,1789357739566,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1789357797768,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 10194}
+0,1789357840702,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1789357884884,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 15611}
+0,1789357918532,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1789357970127,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 20242}
+0,1789358073399,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1789358075683,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 9221}
