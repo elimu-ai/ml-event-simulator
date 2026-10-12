@@ -1,0 +1,21 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1791776710259,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1791776717090,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 35011}
+0,1791776755650,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1791776809457,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 53102}
+0,1791776834641,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1791776877211,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 45340}
+0,1791776917616,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1791776965070,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 35128}
+0,1791777043801,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1791777085638,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 37823}
+0,1791777192318,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1791777212304,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 36928}
+0,1791777296669,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1791777333039,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_COMPLETED,{'video_playback_position_ms': 45608}
+0,1791777445922,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1791777478964,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 30563}
+0,1791777535448,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1791777579254,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 45246}
+0,1791777637712,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_OPENED,
+0,1791777649404,e387e38700000003,ai.elimu.filamu,1,piper,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 24919}
