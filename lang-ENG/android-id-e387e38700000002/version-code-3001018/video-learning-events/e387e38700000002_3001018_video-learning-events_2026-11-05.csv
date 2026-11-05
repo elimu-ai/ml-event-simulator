@@ -1,0 +1,19 @@
+id,timestamp,android_id,package_name,video_id,video_title,learning_event_type,additional_data
+0,1793850417367,e387e38700000002,ai.elimu.filamu,33,akili and me - letter i,VIDEO_OPENED,
+0,1793850471519,e387e38700000002,ai.elimu.filamu,33,akili and me - letter i,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 51121}
+0,1793850563530,e387e38700000002,ai.elimu.filamu,44,[test] a test video,VIDEO_OPENED,
+0,1793850584604,e387e38700000002,ai.elimu.filamu,44,[test] a test video,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 24568}
+0,1793850612041,e387e38700000002,ai.elimu.filamu,44,[test] a test video,VIDEO_OPENED,
+0,1793850639545,e387e38700000002,ai.elimu.filamu,44,[test] a test video,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 4778}
+0,1793850692042,e387e38700000002,ai.elimu.filamu,33,akili and me - letter i,VIDEO_OPENED,
+0,1793850696201,e387e38700000002,ai.elimu.filamu,33,akili and me - letter i,VIDEO_COMPLETED,{'video_playback_position_ms': 24222}
+0,1793850812240,e387e38700000002,ai.elimu.filamu,44,[test] a test video,VIDEO_OPENED,
+0,1793850828852,e387e38700000002,ai.elimu.filamu,44,[test] a test video,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 56478}
+0,1793850899061,e387e38700000002,ai.elimu.filamu,2,akili and me - letter b,VIDEO_OPENED,
+0,1793850935464,e387e38700000002,ai.elimu.filamu,2,akili and me - letter b,VIDEO_CLOSED_BEFORE_COMPLETION,{'video_playback_position_ms': 49649}
+0,1793850977353,e387e38700000002,ai.elimu.filamu,13,akili and me - the rectangle song,VIDEO_OPENED,
+0,1793851021551,e387e38700000002,ai.elimu.filamu,13,akili and me - the rectangle song,VIDEO_COMPLETED,{'video_playback_position_ms': 1491}
+0,1793851063807,e387e38700000002,ai.elimu.filamu,1,akili and me - letter a,VIDEO_OPENED,
+0,1793851104212,e387e38700000002,ai.elimu.filamu,1,akili and me - letter a,VIDEO_COMPLETED,{'video_playback_position_ms': 56268}
+0,1793851152779,e387e38700000002,ai.elimu.filamu,13,akili and me - the rectangle song,VIDEO_OPENED,
+0,1793851182070,e387e38700000002,ai.elimu.filamu,13,akili and me - the rectangle song,VIDEO_COMPLETED,{'video_playback_position_ms': 2943}
